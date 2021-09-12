@@ -1,0 +1,7 @@
+Pacakge Implementation
+
+make folder named com ->> jahanvi ->> <name of your chose> . 
+add tha Package on the top for your java file --> package com.jahanvi.array .
+we can import this file in another file which is in another folder --> package com.pandey.rotate
+                                                                       import com.jahanvi.array.<method/class name>
+We can use that class properties in another file 
